@@ -12,8 +12,8 @@ Weather app made with ReactJS. Weather can be searched both by entering the city
 
 ## A walkthrough of code
 
-- Start by used API from https://openweathermap.org/
-- Call out the data needed to be shown on the page
+- Used API from https://openweathermap.org/
+- Utilises OpenWeatherMap API for weather data and Weather Icons for icons.
 - Added CSS code
 - Uploaded to GitHub
 - Hosted with https://vercel.com
@@ -21,16 +21,16 @@ Weather app made with ReactJS. Weather can be searched both by entering the city
 
 ## Technical Hurdle
 
-I am struggling with take it out the data from API and added css to the interface 
+I am struggling with take it out the data from API and added css to the interface.
 
 
 ## What have i learned
 
-I have learned more about react js while the project is on going. 
+I have learned how to combine both css and javascript using reactjs. Moreover, i have learned new methods of calling and showing data or results. 
 
 ## What's next?
 
-- Add google map interface
-- Interactive weather background (change the background based on the current weather)
+- Add google map interface for longitude and langitude
+- Interactive weather app background (change the background based on the current weather)
 - Add personal or profile account (register/login)
 - Add 5 days forecast weather
