@@ -14,7 +14,9 @@ Weather app made with ReactJS. Weather can be searched both by entering the city
 
 - Used API from https://openweathermap.org/
 - Utilises OpenWeatherMap API for weather data and Weather Icons for icons.
+- Sv
 - Added CSS code
+- Compiled both CSS and React JS code
 - Uploaded to GitHub
 - Hosted with https://vercel.com
 
