@@ -26,6 +26,7 @@ I am struggling with take it out the data from API and added css to the interfac
 
 ## What have i learned
 
+I have learned more about react js while the project is on going. 
 
 ## What's next?
 
