@@ -14,7 +14,6 @@ Weather app made with ReactJS. Weather can be searched both by entering the city
 
 - Used API from https://openweathermap.org/
 - Utilises OpenWeatherMap API for weather data and Weather Icons for icons.
-- Sv
 - Added CSS code
 - Compiled both CSS and React JS code
 - Uploaded to GitHub
@@ -28,7 +27,7 @@ I am struggling with take it out the data from API and added css to the interfac
 
 ## What have i learned
 
-I have learned how to combine both css and javascript using reactjs. Moreover, i have learned new methods of calling and showing data or results. 
+I have learned how to combine both css and javascript. Moreover, i have learned new methods of calling and showing data or results. 
 
 ## What's next?
 
