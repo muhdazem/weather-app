@@ -39,4 +39,4 @@ Weather app made with ReactJS. Weather can be searched both by entering the city
 - Interactive weather app background (change the background based on the current weather).
 - Add personal or profile account (register/login).
 - Add 5 days forecast weather.
-- Add reminder or alerts about the weather.
+- Add reminder or alert about the weather.
