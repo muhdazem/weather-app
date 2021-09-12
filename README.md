@@ -27,7 +27,8 @@ I am struggling with take it out the data from API and added css to the interfac
 
 ## What have i learned
 
-I have learned how to combine both css and javascript. Moreover, i have learned new methods of calling and showing data or results. 
+- How to combine both css and javascript. 
+- New methods of calling and showing data or results. 
 
 ## What's next?
 
