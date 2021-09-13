@@ -25,13 +25,13 @@ Weather app made with ReactJS. Weather can be searched both by entering the city
 - Take it out specific data from the API.
 - Added css to the interface.
 - Getting errored on specific code.
-- Not enough time to complete other features (5 days forecast and CRUD functionality.
+- Not enough time to complete other features (5 days forecast and CRUD functionality).
 
 
 ## What have i learned
 
-- How to combine both css and javascript. 
-- New methods of calling and showing data or results. 
+- More about css.
+- New methods of calling and showing data. 
 
 ## What's next?
 
